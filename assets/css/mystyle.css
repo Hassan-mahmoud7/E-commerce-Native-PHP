@@ -1,0 +1,38 @@
+
+.heightbtn1{
+    height: 50px;
+}
+/* Price Range slider */
+.price-range-block {
+    margin:2% 0%;
+}
+
+.ui-slider-horizontal {
+   
+    width:100%;
+}
+.ui-widget-header {
+    background: #5ca520;
+}
+.price-range-field{
+    width:30%; 
+    min-width: 16%;
+    background-color:#f9f9f9; 
+    border: 1px solid #6e6666; 
+    color: black; 
+    font-family: myFont; 
+    font: normal 14px Arial, Helvetica, sans-serif; 
+    border-radius: 5px; 
+    height:26px; 
+    padding:5px;
+}
+.search-results-block{
+    position: relative;
+    display: block;
+    clear: both;
+}
+#heightimg{
+    height: 350px;
+}
+
+
